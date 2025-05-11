@@ -23,8 +23,8 @@ export const About = () => {
       <section className="About mt-20">
         <div className="text-left py-5 px-20 font-bold text-lg">
           <p>
-            Hi, I'm Keshavardhan! I'm currently pursuing Computer Science and
-            Engineering at Vellore Institute of Technology, Vellore.
+            Hi, I'm Hema Radhika! I'm currently pursuing Artificial Intelligence
+            Engineering at Amrita Vishwa Vidyapeetham , Coimbatore.
           </p>
           <br />
           <p>
