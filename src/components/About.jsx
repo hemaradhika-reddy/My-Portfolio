@@ -27,10 +27,7 @@ export const About = () => {
           Artificial Intelligence at Amrita Vishwa Vidyapeetham, Coimbatore.
           </p>
           <br />
-          <p>
-            I have a strong foundation in programming languages like Python,
-            JavaScript, and Solidity.
-          </p>
+          
           <br />
           <p>
           I have a strong foundation in programming languages such as Java, Python, JavaScript, MySQL, and Bash. 
