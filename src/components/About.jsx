@@ -23,8 +23,8 @@ export const About = () => {
       <section className="About mt-20">
         <div className="text-left py-5 px-20 font-bold text-lg">
           <p>
-            Hi, I'm Hema Radhika! I'm currently pursuing Artificial Intelligence
-            Engineering at Amrita Vishwa Vidyapeetham , Coimbatore.
+          Hi, I'm Hema Radhika! I'm currently in my final semester of B.Tech in Computer Science with a specialization in 
+          Artificial Intelligence at Amrita Vishwa Vidyapeetham, Coimbatore.
           </p>
           <br />
           <p>
@@ -33,19 +33,18 @@ export const About = () => {
           </p>
           <br />
           <p>
-            My proficiency includes web technologies like HTML, CSS, JavaScript,
-            Node.js, React.js, Express.js, PostgreSQL, and MongoDB.
+          I have a strong foundation in programming languages such as Java, Python, JavaScript, MySQL, and Bash. 
+          
           </p>
           <br />
           <p>
-            I have hands-on experience with blockchain technologies, such as
-            Ethereum, Bitcoin Blockchain, Smart Contracts, Truffle, Hardhat, and
-            Ganache.
+            I have hands-on experience with machine learning, deep learning, large language models, as well as web technologies including
+            HTML, CSS, JavaScript, Node.js, React.js, Express.js, PostgreSQL, and MongoDB.
           </p>
           <br />
           <p>
-            I am experienced with tools like npm, Git, GitHub, Visual Studio
-            Code, Postman, Hardhat, Truffle, and Ganache.
+          I also have experience with cloud and containerization tools like Docker ,Kubernetes Git, GitHub, Visual Studio
+            Code, Postman.
           </p>
           <br />
           <button>
