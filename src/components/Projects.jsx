@@ -12,28 +12,20 @@ export const Projects = () => {
         <div className="mt-20 text-center text-3xl mb-5">Projects</div>
         <div className="text-left px-10 mb-20">
           <div>
-            <h1>-- Fake signature detection:</h1>
+            <h1>-- Real Estate Web Application:</h1>
             <br />
             <p className="px-10">
-              This work uses the capabilities of Convolutional Neural Networks
-              (CNN) and the VGG16 model to provide a novel method for detecting
-              counterfeit signatures. In light of the growing incidence of
-              signature forging across multiple industries, our research tackles
-              the requirement for a dependable and effective detection system.
-              Our approach starts with preparing signature photos to improve
-              their quality so that the analysis that follows is founded on
-              clean, well-resolved data. Our method’s central component is a
-              comparison between these modified images and real signatures
-              utilizing CNN and VGG16, two different algorithms, with some
-              preprocessing techniques like gaussian blur, cropping, edge
-              detection etc Tech:Mechine learning, CNN, image procesing, openCV,
-              computer vision.
+            Developed a full-stack Real Estate Web Application enabling users to list, search, and manage properties with real-time filters and role-based dashboards.
+            Built secure authentication with Google OAuth and Appwrite, and implemented property image uploads using Firebase.
+            Designed responsive UI using React.js and Tailwind CSS for seamless use across devices.
+            Created scalable REST APIs with Node.js and Express.js, and managed data with MongoDB.
+            Tech Stack: MERN Stack, Redux, Appwrite, Firebase, Tailwind CSS, Google OAuth.
             </p>
             <br />
             <a
               className="flex gap-2 px-10"
               target="_blank"
-              href="https://github.com/Applikatla/Fake-Signatures-Detection"
+              href="https://github.com/hemaradhika-reddy/Real-Estate-Web-Application"
             >
               -- github
               <img
@@ -45,20 +37,20 @@ export const Projects = () => {
           </div>
           <br />
           <div>
-            <h1>-- Hand Landmark Detection In Presence Of Object:</h1>
+            <h1>-- Assessment Recommendation System:</h1>
             <br />
             <p className="px-10">
-              This work is capable of tracing hand land marks in presence of
-              object in our hand, we used google’s mediapipe library which is a
-              cross platform machine learning frame work that provides a variety
-              of pre trained models for computer vision to achieve the desired
-              result. Tech: Opencv, computer vision, mediapipe.
+            Built a web-based recommendation tool to suggest SHL assessments based on job queries or descriptions, streamlining hiring decisions.
+            Deployed a user-friendly Streamlit interface and FastAPI backend to support both interactive use and API integration.
+            Designed logic to return top 10 relevant assessments with key attributes, improving selection speed and consistency.
+            Integrated optional LLM support and evaluated system performance using Recall@3 and MAP@3 metrics.
+            Tech Stack: Python, Streamlit, FastAPI, Pandas, scikit-learn, Gemini (LLM APIs).
             </p>
             <br />
             <a
               className="flex gap-2 px-10"
               target="_blank"
-              href="https://github.com/Applikatla/ml-projects/tree/main/Hand%20landmark%20detection%20program"
+              href="https://github.com/hemaradhika-reddy/SHL-Assessment-Recommendation-System"
             >
               -- github
               <img
@@ -70,20 +62,21 @@ export const Projects = () => {
           </div>
           <br />
           <div>
-            <h1>-- Blockchain Computing:</h1>
+            <h1>-- 
+            Robust Prediction of Protein Structural Flexibility Using Transformers:</h1>
             <br />
             <p className="px-10">
-              Which is a blockchain Based Application where a user can send
-              transactions accross the word and can verify using merkel tree,
-              can create a basic DAO, can store there file in blockchain. Tech:
-              Blockchain, hardhat, smart contracts, Ethereum, react, node,
-              express, APIs, Matamask.
+            Developed a deep learning pipeline to predict protein flexibility (B-factors) directly from sequences, aiding drug discovery efforts.
+            Used ESM-2 transformer embeddings and BiLSTM to capture sequence patterns, improving generalizability and scalability.
+            Engineered a hybrid Graph Attention Network (HAGNN-BF) to model spatial dependencies in protein structures.
+            Achieved a high Pearson correlation of 0.85, outperforming traditional methods in accuracy and robustness.
+            Tech Stack: Python, PyTorch, ESM-2, BiLSTM, Graph Neural Networks, Attention Mechanisms.
             </p>
             <br />
             <a
               className="flex gap-2 px-10"
               target="_blank"
-              href="https://github.com/Applikatla/Blockchain_computing"
+              href="https://github.com/hemaradhika-reddy/Protein-Structural-Flexibility-Using-Transformers"
             >
               -- github
               <img
@@ -95,21 +88,20 @@ export const Projects = () => {
           </div>
           <br />
           <div>
-            <h1>-- Family trip tracker:</h1>
+            <h1>-- Real-Time Ad Placement in Online Marketing:</h1>
             <br />
             <p className="px-10">
-              This website allows users to track the countries they have
-              traveled to worldwide. It features flexibility to add multiple
-              users, such as family members, to share and maintain travel
-              records collaboratively. A PostgreSQL database is used to ensure
-              robust and reliable data storage. Tech: HTML, CSS, JS, ejs,
-              express, node, postgres.
+            Designed a DRL-based system to optimize real-time ad placements by adapting to user behavior, preferences, and context.
+            Implemented and compared DQN, A2C, and PPO agents to maximize click-through rates and user engagement.
+            Simulated a dynamic environment with ad inventory and user profiles for continuous learning via custom reward signals.
+            Achieved enhanced ad performance through strategic exploration and robust policy updates across agents.
+            Tech Stack: Python, TensorFlow, PyTorch, NumPy, Pandas, Matplotlib.
             </p>
             <br />
             <a
               className="flex gap-2 px-10"
               target="_blank"
-              href="https://github.com/Applikatla/Family-tracker"
+              href="https://github.com/hemaradhika-reddy/Real-Time-Ad-Placement-in-Online-Marketing"
             >
               -- github
               <img
