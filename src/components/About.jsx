@@ -44,6 +44,10 @@ export const About = () => {
             Code, Postman.
           </p>
           <br />
+          <p>
+          In addition, I bring research experience to the table, having published two papers—one in a Springer international conference and another in IEEE—demonstrating my ability to apply AI techniques to real-world scientific problems.
+          </p>
+
           <button>
             <a
               href="/files/Hemaradhika.pdf"
